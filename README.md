@@ -1,0 +1,4 @@
+# Telemetria
+# Telemetria
+# Telemetria
+# Telemetria
