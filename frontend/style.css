@@ -1,0 +1,22 @@
+body {
+  background-color: #181D31;
+}
+
+p , #result{
+  font-size: 64px;
+  color: #E6DDC4; 
+}
+
+.center {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#result {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
